@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dLeandroT
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Multivariable Calculo x_x
+- 🌱 I’m currently learning Python Pro B)
 - 💞️ I’m looking to collaborate on Python Stuffs 
 - 📫 How to reach me: twitter @dLeandroT
 
